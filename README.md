@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-datalab&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-datalab" /> </p>
 
-- 🔭 I’m currently working on **car price prediction**
-
 - 🌱 I’m currently learning **Data science,**
 
 - 📫 How to reach me **Riteshsarathe08@gmail.com**
